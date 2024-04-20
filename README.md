@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning code.
 - 💞️ I’m looking to collaborate on code.
 - 📫 How to reach me at wenlida@outlook.com e-mail.
-- 😄 Pronouns: wen.
+- 😄 Pronouns: he/him.
 - ⚡ Fun fact: I like to wreck computers (virtual).
 
 <!---
